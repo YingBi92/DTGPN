@@ -10,8 +10,7 @@ Y. Bi, B. Xue and M. Zhang, "MultiTree Genetic Programming for Few-Shot Image Cl
 
 If you uses the code, please cite the paper:  <br />
 ----
-    @book{bi2021gpimage,
-	title={Genetic Programming for Image Classification: An Automated Approach to Feature Learning},
+    @book{bi2021mtgpfsic,
+	title={MultiTree Genetic Programming for Few-Shot Image Classification},
 	author={Bi, Ying and Xue, Bing and Zhang, Mengjie},
-	year={2021},
-	publisher={Springer International Publishing}}
+	year={2021}}
